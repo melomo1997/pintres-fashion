@@ -1,0 +1,78 @@
+h1{
+   font-size: 50px;
+   background-color:black;
+   font-weight: bolder;
+   
+   text-align: center;
+   color:beige;
+   border: double;
+   border-width: 15px;
+   font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+p{
+    text-align: center;
+    font-family: 'Shadows Into Light', cursive;
+    line-height: 1.8;
+    word-spacing: 10px;
+}
+
+body{
+    background-image:url(../images/backpic.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 200vh;
+    
+}
+
+.girl1{
+    border-width: 30px;
+    border-style: double;
+    border-color: black;
+    border-top-right-radius:1000px ;
+    width: 60vh;
+    height: 100vh;
+    margin: 10px;
+    
+   
+
+}
+
+.girl2{
+
+    border-width: 30px;
+    border-style:double;
+    border-bottom-left-radius: 1000px;
+    width: 60vh;
+    height: 100vh;
+    margin: 10px;
+    text-align: right;
+}
+
+div{
+    border: 15px double black;
+    max-width: 900px;
+    max-height: 2000px;
+    margin: 30px;
+    text-align: center;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-color:beige;
+    padding: 30px;
+    margin: auto;
+    
+
+}
+
+button:hover{
+
+    background-color: aquamarine;
+    color: blue;
+    font-family: 'Shadows Into Light', cursive;
+}
+
+.fa-square-pinterest{
+    color: plum;
+}
